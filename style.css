@@ -44,3 +44,44 @@ img {
 	margin: 15px 0 5px 0;
 	font-size: 1rem;
 }
+
+.headline{
+	text-align: center;
+	margin: 50px 0;
+}
+ul{
+	list-style-type: disc;
+	list-style-position: inside;
+	font-size: 1rem;
+	text-align: left;
+	max-width: 550px;
+	margin: 0 auto 50px auto;
+	padding-left: 20px; /* Adjust the indentation value as needed */
+}
+li{
+	margin: 16px 0;
+	font-size: inherit;
+	text-indent: -20px; /* Adjust the negative indentation value to match the padding value above */
+}
+blockquote{
+	max-width: 550px;
+	margin: 0 auto 50px auto;
+	font-style: italic;
+	text-align: left;
+}
+cite{
+	font-style: italic;
+	font-size: 1rem;
+	text-align: left;
+}
+
+blockquote p{
+	font-size: 1rem;
+	margin: 16px 0;
+}
+.block-footer{
+	font-size: 1.17rem;
+	margin: 20px 0;
+}
+
+
